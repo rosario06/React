@@ -1,0 +1,1 @@
+Scaffold-DbContext "Server=LAPTOP-4A7PRD2C\BCDEMO; DataBase=PRAC_ESTUDIANTE;Integrated Security=true;TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutPutDir Models
