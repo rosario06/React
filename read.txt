@@ -1,0 +1,21 @@
+ng g m app-routing --flat
+ng g m auth/auth-routing --flat
+ng g m pages/pages-routing --flat
+ng g c auth/login --skip-tests
+ng g c auth/register --skip-tests
+ng g m auth/auth --flat
+ng g c pages/pages --flat --skip-tests
+ng g c pages/dashboard --skip-tests
+ng g c pages/user --skip-tests
+ng g c pages/locations --skip-tests
+ng g m shared/shared --flat
+ng g c shared/header --skip-tests
+ng g c shared/sidebar --skip-tests
+ng g c shared/index --skip-tests
+ng g c shared/footer --skip-tests
+ng g c nopage-found --skip-tests
+ng g m pages/pages --flat
+ng g s services/sidebar --skip-tests
+
+https://www.youtube.com/watch?v=MNpgyTNpJjg&ab_channel=AxelfoxIICode
+
