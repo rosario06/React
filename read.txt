@@ -19,3 +19,4 @@ ng g s services/sidebar --skip-tests
 
 https://www.youtube.com/watch?v=MNpgyTNpJjg&ab_channel=AxelfoxIICode
 
+https://www.instructables.com/2-Player-Bartop-Arcade-Machine-Powered-by-Pi/
